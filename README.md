@@ -32,9 +32,9 @@
   
   **Rules:**
   
- *Players put Xs and Os on the grid one after the other. 
- The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner.*
-
+ *"Players put Xs and Os on the grid one after the other. 
+ The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner."*
+https://en.wikipedia.org/wiki/Tic-tac-toe
 
 
 
